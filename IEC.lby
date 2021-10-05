@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.3.8.58 SP?>
+<Library Version="0.01.1" xmlns="http://br-automation.co.at/AS/Library">
+  <Files>
+    <File>SafeRemote.md</File>
+    <File>VersionHistory.txt</File>
+    <File Description="Exported constants">Constants.var</File>
+    <File Description="Local data types">Types.typ</File>
+    <File>SafeRemote.fun</File>
+    <File>SafeRemote.st</File>
+  </Files>
+  <Dependencies>
+    <Dependency ObjectName="AsSafety" />
+    <Dependency ObjectName="AsBrStr" />
+  </Dependencies>
+</Library>
