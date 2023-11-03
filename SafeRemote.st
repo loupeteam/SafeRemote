@@ -1,12 +1,12 @@
-(********************************************************************
- * COPYRIGHT --  Automation Resources Group
+(*
+ * File: SafeRemote.st
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of SafeRemote, licensed under the MIT License.
+ *
  ********************************************************************
- * Library: SRWrap
- * File: SRWrapFn_Cyclic.st
- * Author: Scott Claiborne
- * Created: December 28, 2017
- ********************************************************************
- * Implementation OF library SRWrap
+ * Implementation OF library SafeRemote
  ********************************************************************) 
 
 

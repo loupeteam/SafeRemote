@@ -1,3 +1,10 @@
+(*
+ * File: SafeRemote.fun
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of SafeRemote, licensed under the MIT License.
+ *)
 
 FUNCTION SafeRemoteErrorString : BOOL
 	VAR_INPUT
