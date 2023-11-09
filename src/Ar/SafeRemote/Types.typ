@@ -5,6 +5,7 @@
  * 
  * This file is part of SafeRemote, licensed under the MIT License.
  *)
+
 TYPE
 	SRWrap_Internal_typ : 	STRUCT 
 		continousStatus : BOOL;

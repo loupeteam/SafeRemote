@@ -5,6 +5,8 @@
  * 
  * This file is part of SafeRemote, licensed under the MIT License.
  *
+ *)
+
  ********************************************************************
  * Implementation OF library SafeRemote
  ********************************************************************) 
